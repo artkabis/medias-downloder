@@ -1,0 +1,39 @@
+{
+  "manifest_version": 3,
+  "name": "Media Downloader - Save Images & Files",
+  "version": "1.0.0",
+  "description": "Téléchargez facilement des images, PDF, vidéos et fichiers audio de n'importe quelle page web. Filtrez par taille, type et URL.",
+  "author": "Votre Nom ou Organisation",
+  "homepage_url": "https://votresite.com/",
+  "permissions": [
+    "activeTab",
+    "downloads",
+    "scripting",
+    "storage"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    },
+    "default_title": "Media Downloader"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "contentScript.js"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    }
+  ],
+  "minimum_chrome_version": "88"
+}
