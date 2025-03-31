@@ -47,4 +47,4 @@ Cette extension:
 
 ## Support
 
-Pour toute question ou problème, veuillez contacter [votre-email@example.com]
+Pour toute question ou problème, veuillez contacter [https://artkabis.fr]
