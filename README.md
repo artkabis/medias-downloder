@@ -41,10 +41,11 @@ Les images et autres médias peuvent être protégés par des droits d'auteur. V
 ## Confidentialité
 
 Cette extension:
+
 - Ne collecte aucune donnée personnelle
 - N'envoie aucune information à des serveurs externes
 - Fonctionne entièrement en local sur votre navigateur
 
 ## Support
 
-Pour toute question ou problème, veuillez contacter [votre-email@example.com]
+Pour toute question ou problème, veuillez contacter [https://artkabis.fr]
